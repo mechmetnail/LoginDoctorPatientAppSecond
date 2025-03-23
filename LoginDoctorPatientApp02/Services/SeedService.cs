@@ -32,7 +32,7 @@ namespace LoginDoctorPatientApp02.Services
                 {
                     var adminUser = new Users
                     {
-                        FullName = "Code Hub",
+                        FullName = "Mechmet Nail",
                         UserName = adminEmail,
                         NormalizedUserName = adminEmail.ToUpper(),
                         Email = adminEmail,
